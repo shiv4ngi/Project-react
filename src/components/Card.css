@@ -1,0 +1,19 @@
+/* .box {
+  display: inline-block;
+} */
+
+.boxImg {
+  width: "400";
+  height: "200";
+}
+.card {
+  width: 376px;
+  margin: 50px;
+  margin-inline-start: 6rem;
+}
+.container-box {
+  padding: 20px;
+}
+.cardButton {
+  border-radius: 20px;
+}

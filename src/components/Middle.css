@@ -1,0 +1,25 @@
+.img-container {
+  text-align: center;
+  object-fit: cover;
+  box-sizing: border-box;
+  position: relative;
+}
+.imgMid {
+  position: relative;
+  width: 1140px;
+  right: 1.5rem;
+}
+.text-block {
+  background-color: rgb(15, 7, 82);
+  background: rgba(15, 7, 82, 0.5);
+  color: #fff;
+  border-radius: 10px;
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 30px;
+  font-size: 1rem;
+}
