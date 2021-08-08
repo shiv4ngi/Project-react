@@ -32,7 +32,7 @@ export default function Header(props) {
               <i class="fas fa-search"></i>
             </Nav.Link>
             <Nav.Link href="#logIn">Log in</Nav.Link>
-            <Button />
+            <Button buttonTitle="SIGN UP" />
           </Nav>
         </Container>
       </Navbar>
