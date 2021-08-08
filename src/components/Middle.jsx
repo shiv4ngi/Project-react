@@ -15,7 +15,7 @@ const Middle = () => {
             specially designed to spread joy to someone you love
           </p>
           <br />
-          <Button>SHOP NOW</Button>
+          <Button buttonTitle="SHOP NOW" />
         </div>
       </div>
     </>
