@@ -1,10 +1,8 @@
 import React from "react";
-// import { useState } from "react";
 
 import "./Button.css";
-
 const Button = (props) => {
-  return <button className="button">SIGN UP</button>;
+  return <button className="button">{props.buttonTitle}</button>;
 };
 
 export default Button;
